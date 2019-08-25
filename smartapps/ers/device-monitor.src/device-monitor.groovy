@@ -64,13 +64,13 @@
  */
 definition(
     name: "Device Monitor",
-    namespace: "erocm123",
+    namespace: "ers",
     author: "Eric Maycock",
     description: "SmartApp that monitors selected devices and will send a notification if one has stopped reporting.",
     category: "My Apps",
-    iconUrl: "https://raw.githubusercontent.com/erocm123/SmartThingsPublic/master/smartapps/erocm123/device-monitor.src/device-monitor-icon.png",
-    iconX2Url: "https://raw.githubusercontent.com/erocm123/SmartThingsPublic/master/smartapps/erocm123/device-monitor.src/device-monitor-icon-2x.png",
-    iconX3Url: "https://raw.githubusercontent.com/erocm123/SmartThingsPublic/master/smartapps/erocm123/device-monitor.src/device-monitor-icon-3x.png")
+    iconUrl: "https://raw.githubusercontent.com/esoderquist/smartthings-apps/master/smartapps/ers/device-monitor.src/device-monitor-icon.png",
+    iconX2Url: "https://raw.githubusercontent.com/esoderquist/smartthings-apps/master/smartapps/ers/device-monitor.src/device-monitor-icon-2x.png",
+    iconX3Url: "https://raw.githubusercontent.com/esoderquist/smartthings-apps/master/smartapps/ers/device-monitor.src/device-monitor-icon-3x.png")
 
 
 preferences {
